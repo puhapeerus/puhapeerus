@@ -1,4 +1,8 @@
-## Hi there 👋
+## Tommi
+
+Currently learning lua, javascript and html.
+
+Discord = tommi2401
 
 <!--
 **puhapeerus/puhapeerus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
